@@ -5,9 +5,9 @@ api: [5.0.0]
 author: NewPlayerMC
 
 permissions:
-  chatlock.use.perm:
+  chatlock.use:
     default: op
     description: Allow player to /chatlock [on|off]
-  chatlock.bypass.perm:
+  chatlock.bypass:
     default: op
     description: Allow player to talk when chatlock is on
