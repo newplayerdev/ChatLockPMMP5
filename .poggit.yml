@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/newplayerdev/ChatLockPMMP5
+build-by-default: true
+branches:
+- main
+projects:
+  ChatLockPMMP5:
+    path: ""
+...
