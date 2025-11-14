@@ -1,11 +1,13 @@
 # ChatLockPMMP5
 A simple PocketMine-MP 5.0 plugin that allows you to lock and unlock the chat
 
-Usage: /chatlock [on|off]
+**Usage:** /chatlock [on|off]
+
 Executing `/chatlock` will commute the state of the chat lock
 
-Permissions: - chatlock.use      # To use the chatlock command
-             - chatlock.bypass   # To bypass the chatlock
+**Permissions:** 
+- chatlock.use -> To use chatlock command
+- chatlock.bypass -> To bypass the chatlock
             
 **Config** 
 
